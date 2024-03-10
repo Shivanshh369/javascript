@@ -18,3 +18,7 @@ prefer not to use var because of issue in block scope and fuctional scope
 
 console.table([ accountId, accountEmail, accountPassword, accountCity, accountState])
 
+console.log("hey there how r u.?");
+console.log("hey there how r u.?");
+console.log("hey there how r u.?");
+
