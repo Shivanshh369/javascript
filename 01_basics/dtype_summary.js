@@ -39,7 +39,7 @@ console.log( typeof bigNumber);
 
 // stack (primitive), heap (non-primitive)
 
-let myName ="shivansh"
+let myYtName ="shivansh"
 
 let anothername = thisismyname
 anothername = "shivvv"
